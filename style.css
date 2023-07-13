@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    background-color: aliceblue;
+}
+
+#game{
+    background-color:lightcoral;
+}
+
+.line {
+    height: 6px;/* ; Concederá a altura de 6px*/
+    background-color: #000; /*Modifique o background-color(cor de fundo) para black(preto)*/
+    width: 70px;/* Torne a width(largura) para 70px*/
+    margin: 8px auto; /*Isso significa que será concedido uma margem de 8px ao topo e à base. 
+    E, auto margin à esquerda e à direita, ou seja, serão alinhados ao centro da página.*/
+}
